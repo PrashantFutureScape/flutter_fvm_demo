@@ -1,4 +1,4 @@
-package com.example.flutter_fvm_demo
+package com.example.flutter_fvm_
 
 import io.flutter.embedding.android.FlutterActivity
 
